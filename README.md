@@ -1,2 +1,11 @@
-# curso_typescript_parte_1
-Parte 1 do curso de Typescript
+# Repositório para o curso TypeScript parte 1
+
+
+### Como rodar:
+```
+npm install
+```
+
+```
+npm run server
+```
